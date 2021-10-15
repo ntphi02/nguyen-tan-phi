@@ -1,2 +1,0 @@
-Đây là file week22.txt
-Thuộc branch: week22 mà thôi
